@@ -5,7 +5,6 @@
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 
-
 <details id=0>
 <summary><h2>Welcome</h2></summary>
 
@@ -28,14 +27,6 @@ With GitHub Pages, you can host project blogs, documentation, resumes, portfolio
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
 </details>
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
 
 <details id=1>
 <summary><h2>Step 1: Enable GitHub Pages</h2></summary>
